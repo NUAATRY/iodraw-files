@@ -1,0 +1,101 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:136.0) Gecko/20100101 Firefox/136.0" version="24.7.17">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="1362" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="_f2GN_N2ctT-NA97uulm-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="VdPm0-I4TvHh7dPJtRHS-0" target="_f2GN_N2ctT-NA97uulm-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VdPm0-I4TvHh7dPJtRHS-0" value="静态obj" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="630" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_f2GN_N2ctT-NA97uulm-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="VdPm0-I4TvHh7dPJtRHS-1" target="_f2GN_N2ctT-NA97uulm-6" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="950" y="180" />
+              <mxPoint x="875" y="180" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_f2GN_N2ctT-NA97uulm-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="VdPm0-I4TvHh7dPJtRHS-1" target="_f2GN_N2ctT-NA97uulm-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VdPm0-I4TvHh7dPJtRHS-1" value="动态obj" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="890" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VdPm0-I4TvHh7dPJtRHS-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="VdPm0-I4TvHh7dPJtRHS-2" target="VdPm0-I4TvHh7dPJtRHS-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_f2GN_N2ctT-NA97uulm-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="VdPm0-I4TvHh7dPJtRHS-2" target="_f2GN_N2ctT-NA97uulm-0" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VdPm0-I4TvHh7dPJtRHS-2" value="&lt;div&gt;参考轨迹&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="360" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_f2GN_N2ctT-NA97uulm-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="VdPm0-I4TvHh7dPJtRHS-3" target="_f2GN_N2ctT-NA97uulm-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VdPm0-I4TvHh7dPJtRHS-3" value="无人车信息" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="90" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hVQiHsdw6Nwxp7vOKoMb-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="VdPm0-I4TvHh7dPJtRHS-4" target="OV949mjfw5J2TztqEZnP-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VdPm0-I4TvHh7dPJtRHS-4" value="使用自主规划方案：&lt;br&gt;RRT全局规划&lt;br&gt;多项式轨迹平滑" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="450" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hVQiHsdw6Nwxp7vOKoMb-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="_f2GN_N2ctT-NA97uulm-0" target="VdPm0-I4TvHh7dPJtRHS-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_f2GN_N2ctT-NA97uulm-0" value="使用自定义方案：&lt;br&gt;直接定义一条轨迹" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="270" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OV949mjfw5J2TztqEZnP-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="_f2GN_N2ctT-NA97uulm-2" target="OV949mjfw5J2TztqEZnP-0" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="660" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OV949mjfw5J2TztqEZnP-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="_f2GN_N2ctT-NA97uulm-2" target="OV949mjfw5J2TztqEZnP-15" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_f2GN_N2ctT-NA97uulm-2" value="无人车位置姿态信息" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="90" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OV949mjfw5J2TztqEZnP-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="_f2GN_N2ctT-NA97uulm-4" target="OV949mjfw5J2TztqEZnP-0" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_f2GN_N2ctT-NA97uulm-4" value="对占据地图进行聚类处理&lt;br&gt;输出位置和大小信息" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="605" y="270" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_f2GN_N2ctT-NA97uulm-6" value="使用直接方案：&lt;br&gt;输出实时位置，速度，大小信息" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="810" y="270" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OV949mjfw5J2TztqEZnP-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="_f2GN_N2ctT-NA97uulm-7" target="OV949mjfw5J2TztqEZnP-0" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_f2GN_N2ctT-NA97uulm-7" value="&lt;div align=&quot;center&quot;&gt;使用意图预测方案：&lt;br&gt;&lt;/div&gt;1、障碍物历史数据&lt;br&gt;&lt;div&gt;2、计算意图概率（前停左右）&lt;/div&gt;&lt;div&gt;3、生成候选轨迹&lt;br&gt;4、排除与静态撞击的轨迹&lt;/div&gt;&lt;div&gt;5、计算均方差等值&lt;/div&gt;&lt;div&gt;6、输出最终动态obj预测轨迹&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=middle;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="970" y="220" width="170" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="OV949mjfw5J2TztqEZnP-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="OV949mjfw5J2TztqEZnP-0" target="OV949mjfw5J2TztqEZnP-11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OV949mjfw5J2TztqEZnP-0" value="MPC规划器" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="533.5" y="440" width="313" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="OV949mjfw5J2TztqEZnP-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="OV949mjfw5J2TztqEZnP-0" target="OV949mjfw5J2TztqEZnP-0" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OV949mjfw5J2TztqEZnP-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="OV949mjfw5J2TztqEZnP-11" target="OV949mjfw5J2TztqEZnP-15" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OV949mjfw5J2TztqEZnP-11" value="输出预测行驶轨迹信息" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="533.5" y="540" width="313" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OV949mjfw5J2TztqEZnP-15" value="PID整车控制器" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="533.5" y="630" width="316.5" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
