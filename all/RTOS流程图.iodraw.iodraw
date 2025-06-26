@@ -7,7 +7,7 @@
         <mxCell id="h3hV83Gn2XTLA3mA5Cko-1" value="RTK模块发送数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="130" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="h3hV83Gn2XTLA3mA5Cko-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="h3hV83Gn2XTLA3mA5Cko-2" value="串口3中断触发（高中断优先级）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="240" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
