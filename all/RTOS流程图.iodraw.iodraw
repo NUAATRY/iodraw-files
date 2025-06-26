@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36 Edg/137.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="ywvJq14WK2fGoLquxvmC">
-    <mxGraphModel dx="1554" dy="861" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="518" dy="287" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10,14 +10,20 @@
         <mxCell id="h3hV83Gn2XTLA3mA5Cko-1" value="RTK模块发送数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="70" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="h3hV83Gn2XTLA3mA5Cko-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="h3hV83Gn2XTLA3mA5Cko-2" target="h3hV83Gn2XTLA3mA5Cko-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="h3hV83Gn2XTLA3mA5Cko-2" value="串口3中断触发（高中断优先级）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="150" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="h3hV83Gn2XTLA3mA5Cko-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="h3hV83Gn2XTLA3mA5Cko-3" target="h3hV83Gn2XTLA3mA5Cko-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="h3hV83Gn2XTLA3mA5Cko-3" value="&lt;div&gt;中断服务函数接收数据缓存&lt;span style=&quot;background-color: initial;&quot;&gt;并使用信号量通知RTK任务&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="210" width="160" height="40" as="geometry" />
+          <mxGeometry x="290" y="210" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="h3hV83Gn2XTLA3mA5Cko-4" value="&amp;nbsp;RTK任务收到信号量，开始处理数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="440" width="120" height="40" as="geometry" />
+          <mxGeometry x="310" y="280" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="h3hV83Gn2XTLA3mA5Cko-5" value="判断数据帧格式与有效性是否正确" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="530" width="240" height="50" as="geometry" />
