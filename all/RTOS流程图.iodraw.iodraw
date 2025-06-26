@@ -20,16 +20,16 @@
           <mxGeometry x="280" y="520" width="200" height="80" as="geometry" />
         </mxCell>
         <mxCell id="h3hV83Gn2XTLA3mA5Cko-6" value="解析 RTK 数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="640" width="120" height="60" as="geometry" />
+          <mxGeometry x="330" y="640" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="h3hV83Gn2XTLA3mA5Cko-7" value="&amp;nbsp;丢弃该数据帧" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="530" y="650" width="120" height="60" as="geometry" />
+          <mxGeometry x="530" y="650" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="h3hV83Gn2XTLA3mA5Cko-8" value="将解析后的数据放入消息队列中" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="720" width="120" height="60" as="geometry" />
+          <mxGeometry x="320" y="720" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="h3hV83Gn2XTLA3mA5Cko-9" value="回显任务从消息队列中读取数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="800" width="120" height="60" as="geometry" />
+          <mxGeometry x="320" y="800" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
